@@ -1,0 +1,11 @@
+.content_box{
+    float:left;
+    width:100%;
+}
+.right_bar{
+    float:left;
+    width:85%;
+    padding:15px;
+        /*border-left:1px solid #ccc;*/
+        height:100%;
+}
